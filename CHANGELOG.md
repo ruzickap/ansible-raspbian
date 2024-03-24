@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.3.0](https://github.com/ruzickap/ansible-raspbian/compare/v0.2.0...v0.3.0) (2024-03-24)
+
+
+### Features
+
+* **gha:** Add GitHub Actions workflow files ([#160](https://github.com/ruzickap/ansible-raspbian/issues/160)) ([132231e](https://github.com/ruzickap/ansible-raspbian/commit/132231e1cc1149b7029ced4b6f9b7b563e9af5ca))
+* **gha:** Add GitHub repo files ([#163](https://github.com/ruzickap/ansible-raspbian/issues/163)) ([1e2c3d8](https://github.com/ruzickap/ansible-raspbian/commit/1e2c3d820d228b0934ffba528fd5c7d6f59d3693))
+* **gh:** add default GitHub repo files ([#164](https://github.com/ruzickap/ansible-raspbian/issues/164)) ([372f3e1](https://github.com/ruzickap/ansible-raspbian/commit/372f3e1c216e73f27794a6c7d7c5bc1793da4fc0))
+* **gh:** add default GitHub repo files ([#165](https://github.com/ruzickap/ansible-raspbian/issues/165)) ([09e1470](https://github.com/ruzickap/ansible-raspbian/commit/09e14703e97c08c357137851c74f3e637e7b30ad))
+* **gh:** add default GitHub repo files ([#166](https://github.com/ruzickap/ansible-raspbian/issues/166)) ([a56a1dc](https://github.com/ruzickap/ansible-raspbian/commit/a56a1dcb903402c224a4c6d130974353644cab69))
+* **gha:** unify GHA - renovate, megalinter, markdown, and others ([ba2c687](https://github.com/ruzickap/ansible-raspbian/commit/ba2c6870b9d9816025bdd15f143d7f91d3ce99c0))
+* **gha:** upgrade release-please-action ([a803a8f](https://github.com/ruzickap/ansible-raspbian/commit/a803a8f818d88ab22d949a698352286693f9ab24))
+* **kodi:** remove old samba shares from kodi config ([a50645e](https://github.com/ruzickap/ansible-raspbian/commit/a50645e29fa5204634a600b005a8d881b1a2ae43))
+* **rpi:** enable wifi + update README ([c68e4b5](https://github.com/ruzickap/ansible-raspbian/commit/c68e4b50e944033e71c48a08429256df578be741))
+
+
+### Bug Fixes
+
+* **gha:** improve mega-linter + ansible ([8818d80](https://github.com/ruzickap/ansible-raspbian/commit/8818d802e2bace01488dc0c28b1b2ca75e5051a3))
+
 ## 0.2.0 (2023-10-22)
 
 ## What's Changed
